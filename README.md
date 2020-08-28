@@ -1,4 +1,5 @@
-# Grp63_isds2020
+# Exam project
+## How can we use machine learning to predict election results in Denmark?
 This repository contains all data downloads and jupyter notebooks needed to recreate results for our exam project. Our code consists of the following notebooks:
 
 * scraping.ipynb contains all code necessary for the scraping of KMD and mapping to municipalities.
